@@ -10,3 +10,4 @@ John doe is a nice guy and he lives in Nyc and his has card
 
 f.write(string)
 f.close()
+updated writing file
