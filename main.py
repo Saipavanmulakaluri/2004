@@ -2,7 +2,7 @@
 import Panda
 Import numpy as np
 # New comment for Remote 
-The Best ways are 
+the Best ways are 
     -Eat 
     - Code 
     -Sleep
